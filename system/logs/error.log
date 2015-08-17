@@ -49,3 +49,71 @@
 2015-08-16 15:48:24 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/image.php on line 97
 2015-08-16 15:48:24 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/image.php on line 99
 2015-08-16 15:48:47 - PHP Notice:  Undefined index: limit in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 22
+2015-08-17 16:53:38 - PHP Warning:  fopen(/var/www/html/firstplaceshop/system/cache/cache.language.1439834018): failed to open stream: No such file or directory in /var/www/html/firstplaceshop/system/library/cache/file.php on line 49
+2015-08-17 16:53:38 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 51
+2015-08-17 16:53:38 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 53
+2015-08-17 16:53:38 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 55
+2015-08-17 16:53:38 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 57
+2015-08-17 16:53:38 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 59
+2015-08-17 16:53:38 - PHP Warning:  fopen(/var/www/html/firstplaceshop/system/cache/cache.currency.1439834018): failed to open stream: No such file or directory in /var/www/html/firstplaceshop/system/library/cache/file.php on line 49
+2015-08-17 16:53:38 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 51
+2015-08-17 16:53:38 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 53
+2015-08-17 16:53:38 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 55
+2015-08-17 16:53:38 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 57
+2015-08-17 16:53:38 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 59
+2015-08-17 16:54:16 - PHP Warning:  fopen(/var/www/html/firstplaceshop/system/cache/cache.language.1439834056): failed to open stream: No such file or directory in /var/www/html/firstplaceshop/system/library/cache/file.php on line 49
+2015-08-17 16:54:16 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 51
+2015-08-17 16:54:16 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 53
+2015-08-17 16:54:16 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 55
+2015-08-17 16:54:16 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 57
+2015-08-17 16:54:16 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 59
+2015-08-17 16:54:16 - PHP Warning:  fopen(/var/www/html/firstplaceshop/system/cache/cache.currency.1439834056): failed to open stream: No such file or directory in /var/www/html/firstplaceshop/system/library/cache/file.php on line 49
+2015-08-17 16:54:16 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 51
+2015-08-17 16:54:16 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 53
+2015-08-17 16:54:16 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 55
+2015-08-17 16:54:16 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 57
+2015-08-17 16:54:16 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 59
+2015-08-17 16:55:20 - PHP Warning:  fopen(/var/www/html/firstplaceshop/system/cache/cache.language.1439834120): failed to open stream: No such file or directory in /var/www/html/firstplaceshop/system/library/cache/file.php on line 49
+2015-08-17 16:55:20 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 51
+2015-08-17 16:55:20 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 53
+2015-08-17 16:55:20 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 55
+2015-08-17 16:55:20 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 57
+2015-08-17 16:55:20 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 59
+2015-08-17 16:55:20 - PHP Warning:  fopen(/var/www/html/firstplaceshop/system/cache/cache.currency.1439834120): failed to open stream: No such file or directory in /var/www/html/firstplaceshop/system/library/cache/file.php on line 49
+2015-08-17 16:55:20 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 51
+2015-08-17 16:55:20 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 53
+2015-08-17 16:55:20 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 55
+2015-08-17 16:55:20 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 57
+2015-08-17 16:55:20 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 59
+2015-08-17 16:55:22 - PHP Warning:  fopen(/var/www/html/firstplaceshop/system/cache/cache.language.1439834122): failed to open stream: No such file or directory in /var/www/html/firstplaceshop/system/library/cache/file.php on line 49
+2015-08-17 16:55:22 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 51
+2015-08-17 16:55:22 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 53
+2015-08-17 16:55:22 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 55
+2015-08-17 16:55:22 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 57
+2015-08-17 16:55:22 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 59
+2015-08-17 16:55:22 - PHP Warning:  fopen(/var/www/html/firstplaceshop/system/cache/cache.currency.1439834122): failed to open stream: No such file or directory in /var/www/html/firstplaceshop/system/library/cache/file.php on line 49
+2015-08-17 16:55:22 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 51
+2015-08-17 16:55:22 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 53
+2015-08-17 16:55:22 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 55
+2015-08-17 16:55:22 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 57
+2015-08-17 16:55:22 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/cache/file.php on line 59
+2015-08-17 16:58:48 - PHP Notice:  Undefined variable: text_voucher in /var/www/html/firstplaceshop/catalog/view/theme/default/template/common/footer.tpl on line 26
+2015-08-17 16:58:51 - PHP Notice:  Undefined variable: text_voucher in /var/www/html/firstplaceshop/catalog/view/theme/default/template/common/footer.tpl on line 26
+2015-08-17 16:59:23 - PHP Notice:  Undefined variable: voucher in /var/www/html/firstplaceshop/catalog/view/theme/default/template/common/footer.tpl on line 26
+2015-08-17 16:59:23 - PHP Notice:  Undefined variable: text_voucher in /var/www/html/firstplaceshop/catalog/view/theme/default/template/common/footer.tpl on line 26
+2015-08-17 17:04:45 - PHP Notice:  Undefined variable: text_next_choice in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/cart.tpl on line 102
+2015-08-17 17:05:43 - PHP Notice:  Undefined variable: coupon in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/cart.tpl on line 100
+2015-08-17 17:05:43 - PHP Notice:  Undefined variable: voucher in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/cart.tpl on line 100
+2015-08-17 17:05:43 - PHP Notice:  Undefined variable: reward in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/cart.tpl on line 100
+2015-08-17 17:05:43 - PHP Notice:  Undefined variable: coupon in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/cart.tpl on line 103
+2015-08-17 17:05:43 - PHP Notice:  Undefined variable: voucher in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/cart.tpl on line 103
+2015-08-17 17:05:43 - PHP Notice:  Undefined variable: reward in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/cart.tpl on line 103
+2015-08-17 17:17:38 - PHP Notice:  Undefined variable: text_checkout_shipping_method in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/checkout.tpl on line 62
+2015-08-17 17:17:38 - PHP Notice:  Undefined variable: text_checkout_shipping_method in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/checkout.tpl on line 266
+2015-08-17 17:17:38 - PHP Notice:  Undefined variable: text_checkout_shipping_method in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/checkout.tpl on line 270
+2015-08-17 17:17:38 - PHP Notice:  Undefined variable: text_checkout_shipping_method in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/checkout.tpl on line 289
+2015-08-17 17:17:38 - PHP Notice:  Undefined variable: text_checkout_shipping_method in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/checkout.tpl on line 384
+2015-08-17 17:17:38 - PHP Notice:  Undefined variable: text_checkout_shipping_method in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/checkout.tpl on line 471
+2015-08-17 17:17:38 - PHP Notice:  Undefined variable: text_checkout_shipping_method in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/checkout.tpl on line 572
+2015-08-17 17:17:38 - PHP Notice:  Undefined variable: text_checkout_shipping_method in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/checkout.tpl on line 594
+2015-08-17 17:17:38 - PHP Notice:  Undefined variable: text_checkout_shipping_method in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/checkout.tpl on line 671

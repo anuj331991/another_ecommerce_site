@@ -1,4 +1,4 @@
-<?php echo $header; ?>
+                                                                                                                                                                <?php echo $header; ?>
 <div class="container">
   <ul class="breadcrumb">
     <?php foreach ($breadcrumbs as $breadcrumb) { ?>
@@ -30,9 +30,9 @@
     <?php } ?>
     <div id="content" class="<?php echo $class; ?>"><?php echo $content_top; ?>
       <h1><?php echo $heading_title; ?>
-        <?php if ($weight) { ?>
+        <!--<?php if ($weight) { ?>
         &nbsp;(<?php echo $weight; ?>)
-        <?php } ?>
+        <?php } ?>-->
       </h1>
       <form action="<?php echo $action; ?>" method="post" enctype="multipart/form-data">
         <div class="table-responsive">
