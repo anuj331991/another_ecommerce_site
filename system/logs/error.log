@@ -1,0 +1,51 @@
+2015-08-16 15:31:58 - PHP Warning:  require(/var/www/html/firstplaceshop/admin/language/english/module/popular.php): failed to open stream: Permission denied in /var/www/html/firstplaceshop/system/library/language.php on line 21
+2015-08-16 15:32:34 - PHP Warning:  require(/var/www/html/firstplaceshop/admin/language/english/module/popular.php): failed to open stream: Permission denied in /var/www/html/firstplaceshop/system/library/language.php on line 21
+2015-08-16 15:32:37 - PHP Warning:  require(/var/www/html/firstplaceshop/admin/language/english/module/popular.php): failed to open stream: Permission denied in /var/www/html/firstplaceshop/system/library/language.php on line 21
+2015-08-16 15:33:23 - PHP Warning:  include_once(/var/www/html/firstplaceshop/admin/controller/module/popular.php): failed to open stream: Permission denied in /var/www/html/firstplaceshop/system/engine/action.php on line 58
+2015-08-16 15:33:23 - PHP Warning:  include_once(): Failed opening '/var/www/html/firstplaceshop/admin/controller/module/popular.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/html/firstplaceshop/system/engine/action.php on line 58
+2015-08-16 15:40:16 - PHP Notice:  Undefined index: limit in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 22
+2015-08-16 15:41:21 - PHP Notice:  Undefined index: limit in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 22
+2015-08-16 15:41:27 - PHP Notice:  Undefined index: limit in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 22
+2015-08-16 15:41:30 - PHP Notice:  Undefined index: limit in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 22
+2015-08-16 15:42:55 - PHP Notice:  Undefined index: limit in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 22
+2015-08-16 15:43:12 - PHP Notice:  Undefined index: limit in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 22
+2015-08-16 15:43:28 - PHP Notice:  Undefined index: limit in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 22
+2015-08-16 15:43:30 - PHP Notice:  Undefined index: limit in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 22
+2015-08-16 15:43:36 - PHP Notice:  Undefined index: limit in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 22
+2015-08-16 15:43:42 - PHP Notice:  Undefined index: limit in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 22
+2015-08-16 15:44:18 - PHP Notice:  Undefined index: limit in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 22
+2015-08-16 15:45:23 - PHP Notice:  Undefined index: limit in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 22
+2015-08-16 15:46:13 - PHP Notice:  Undefined index: limit in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 22
+2015-08-16 15:47:18 - PHP Notice:  Undefined index: limit in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 22
+2015-08-16 15:48:00 - PHP Notice:  Undefined index: limit in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 22
+2015-08-16 15:48:24 - PHP Notice:  Undefined index: width in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 35
+2015-08-16 15:48:24 - PHP Notice:  Undefined index: height in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 35
+2015-08-16 15:48:24 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/html/firstplaceshop/system/library/image.php on line 86
+2015-08-16 15:48:24 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/image.php on line 94
+2015-08-16 15:48:24 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/image.php on line 97
+2015-08-16 15:48:24 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/image.php on line 99
+2015-08-16 15:48:24 - PHP Notice:  Undefined index: width in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 35
+2015-08-16 15:48:24 - PHP Notice:  Undefined index: height in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 35
+2015-08-16 15:48:24 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/html/firstplaceshop/system/library/image.php on line 86
+2015-08-16 15:48:24 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/image.php on line 94
+2015-08-16 15:48:24 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/image.php on line 97
+2015-08-16 15:48:24 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/image.php on line 99
+2015-08-16 15:48:24 - PHP Notice:  Undefined index: width in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 35
+2015-08-16 15:48:24 - PHP Notice:  Undefined index: height in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 35
+2015-08-16 15:48:24 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/html/firstplaceshop/system/library/image.php on line 86
+2015-08-16 15:48:24 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/image.php on line 94
+2015-08-16 15:48:24 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/image.php on line 97
+2015-08-16 15:48:24 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/image.php on line 99
+2015-08-16 15:48:24 - PHP Notice:  Undefined index: width in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 35
+2015-08-16 15:48:24 - PHP Notice:  Undefined index: height in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 35
+2015-08-16 15:48:24 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/html/firstplaceshop/system/library/image.php on line 86
+2015-08-16 15:48:24 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/image.php on line 94
+2015-08-16 15:48:24 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/image.php on line 97
+2015-08-16 15:48:24 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/image.php on line 99
+2015-08-16 15:48:24 - PHP Notice:  Undefined index: width in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 35
+2015-08-16 15:48:24 - PHP Notice:  Undefined index: height in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 35
+2015-08-16 15:48:24 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/html/firstplaceshop/system/library/image.php on line 86
+2015-08-16 15:48:24 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/image.php on line 94
+2015-08-16 15:48:24 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/image.php on line 97
+2015-08-16 15:48:24 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/firstplaceshop/system/library/image.php on line 99
+2015-08-16 15:48:47 - PHP Notice:  Undefined index: limit in /var/www/html/firstplaceshop/catalog/controller/module/popular.php on line 22
