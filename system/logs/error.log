@@ -117,3 +117,33 @@
 2015-08-17 17:17:38 - PHP Notice:  Undefined variable: text_checkout_shipping_method in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/checkout.tpl on line 572
 2015-08-17 17:17:38 - PHP Notice:  Undefined variable: text_checkout_shipping_method in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/checkout.tpl on line 594
 2015-08-17 17:17:38 - PHP Notice:  Undefined variable: text_checkout_shipping_method in /var/www/html/firstplaceshop/catalog/view/theme/default/template/checkout/checkout.tpl on line 671
+2015-08-18 16:15:06 - PHP Warning:  fsockopen(): unable to connect to smtp.mandrillapp.com:5587 (Connection timed out) in /var/www/html/firstplaceshop/system/library/mail.php on line 170
+2015-08-18 16:15:07 - PHP Notice:  Error: Connection timed out (110) in /var/www/html/firstplaceshop/system/library/mail.php on line 173
+2015-08-18 16:18:46 - PHP Warning:  fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/firstplaceshop/system/library/mail.php on line 170
+2015-08-18 16:18:46 - PHP Warning:  fsockopen(): unable to connect to smtp.mandrillapp.com:587 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /var/www/html/firstplaceshop/system/library/mail.php on line 170
+2015-08-18 16:18:46 - PHP Notice:  Error: php_network_getaddresses: getaddrinfo failed: Name or service not known (0) in /var/www/html/firstplaceshop/system/library/mail.php on line 173
+2015-08-19 16:29:15 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/controller/catalog/product.php on line 1171
+2015-08-19 16:29:15 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/controller/catalog/product.php on line 1171
+2015-08-19 16:29:15 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/controller/catalog/product.php on line 1171
+2015-08-19 16:29:15 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/controller/catalog/product.php on line 1192
+2015-08-19 16:29:52 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 188
+2015-08-19 16:29:52 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 188
+2015-08-19 16:29:52 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 188
+2015-08-19 16:29:52 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 196
+2015-08-19 16:30:47 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 188
+2015-08-19 16:30:47 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 188
+2015-08-19 16:30:47 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 188
+2015-08-19 16:30:47 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 196
+2015-08-19 16:31:28 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 188
+2015-08-19 16:31:28 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 188
+2015-08-19 16:31:28 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 188
+2015-08-19 16:31:28 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 196
+2015-08-19 16:31:59 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 188
+2015-08-19 16:31:59 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 188
+2015-08-19 16:31:59 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 188
+2015-08-19 16:31:59 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 196
+2015-08-19 16:32:57 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 188
+2015-08-19 16:32:57 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 188
+2015-08-19 16:32:57 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 188
+2015-08-19 16:32:57 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 196
+2015-08-19 16:33:19 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 196
