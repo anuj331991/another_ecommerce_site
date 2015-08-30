@@ -147,3 +147,7 @@
 2015-08-19 16:32:57 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 188
 2015-08-19 16:32:57 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 196
 2015-08-19 16:33:19 - PHP Notice:  Undefined index: customer_group_id in /var/www/html/firstplaceshop/admin/model/catalog/product.php on line 196
+2015-08-30 5:53:37 - PHP Warning:  unlink(/var/www/html/firstplaceshop/system/cache/cache.country.1440351996): No such file or directory in /var/www/html/firstplaceshop/system/library/cache/file.php on line 17
+2015-08-30 5:53:37 - PHP Warning:  unlink(/var/www/html/firstplaceshop/system/cache/cache.information.1.1440351996): No such file or directory in /var/www/html/firstplaceshop/system/library/cache/file.php on line 17
+2015-08-30 5:53:37 - PHP Warning:  unlink(/var/www/html/firstplaceshop/system/cache/cache.store.1440352818): No such file or directory in /var/www/html/firstplaceshop/system/library/cache/file.php on line 17
+2015-08-30 5:53:37 - PHP Warning:  unlink(/var/www/html/firstplaceshop/system/cache/cache.weight_class.1.1440351996): No such file or directory in /var/www/html/firstplaceshop/system/library/cache/file.php on line 17

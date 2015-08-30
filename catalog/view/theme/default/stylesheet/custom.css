@@ -1,0 +1,7 @@
+/*css for fixing the logo and search bar starts here     starts here*/
+#logo a img{
+    height: 90px;
+}
+#search,#cart{
+    margin-top: 25px;
+}
