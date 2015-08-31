@@ -23,7 +23,7 @@
         <h5><?php echo $text_extra; ?></h5>
         <ul class="list-unstyled">
           <li><a href="<?php echo $manufacturer; ?>"><?php echo $text_manufacturer; ?></a></li>
-          <li><a href="<?php echo $voucher; ?>"><?php echo $text_voucher; ?></a></li>
+          <li id="footer_voucher_link"><a href="<?php echo $voucher; ?>"><?php echo $text_voucher; ?></a></li>
           <li><a href="<?php echo $affiliate; ?>"><?php echo $text_affiliate; ?></a></li>
           <li><a href="<?php echo $special; ?>"><?php echo $text_special; ?></a></li>
         </ul>
@@ -31,7 +31,7 @@
       <div class="col-sm-3">
         <h5><?php echo $text_account; ?></h5>
         <ul class="list-unstyled">
-          <li><a href="<?php echo $account; ?>"><?php echo $text_account; ?></a></li>
+          <li id="footer_my_account_link"><a href="<?php echo $account; ?>"><?php echo $text_account; ?></a></li>
           <li><a href="<?php echo $order; ?>"><?php echo $text_order; ?></a></li>
           <li><a href="<?php echo $wishlist; ?>"><?php echo $text_wishlist; ?></a></li>
           <li><a href="<?php echo $newsletter; ?>"><?php echo $text_newsletter; ?></a></li>
@@ -39,7 +39,11 @@
       </div>
     </div>
     <hr>
-    <p><?php echo $powered; ?></p>
+    <p><?php echo $powered; ?>. All rights reserved
+    <p id="footer_seo_words">
+          fps|first place shop|first place|shop|firstplaceshop|buy mobile case|best mobile cases
+          |women accessories|best price online|buy best footwear|low price shop|best deals
+    </p>
   </div>
 </footer>
 

@@ -5,3 +5,44 @@
 #search,#cart{
     margin-top: 25px;
 }
+
+.new_title {
+    border-bottom: 3px solid #E5E5E5;
+}
+.new_title.center {
+    height: 38px;
+}
+.new_title h3 {
+    border: 1px solid #37a4d9;
+    border-bottom: 3px solid #37a4d9;
+    color: #37a4d9;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 900;
+    letter-spacing: normal;
+    margin-top: 0;
+    padding: 10px 15px 7px 15px;
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: 0.5px
+}
+.product-thumb{
+    border-top: none;
+}
+.price{
+    font-size: 17px;
+    line-height: 22px;
+    font-weight: 700;
+}
+
+/*footer customisation starts here*/
+#footer_voucher_link,#footer_my_account_link{
+    display: none;
+}
+#footer_seo_words{
+    text-align: center;
+    font-size: 10px;
+    color: #454545;
+}
+/*footer customisation ends here*/
