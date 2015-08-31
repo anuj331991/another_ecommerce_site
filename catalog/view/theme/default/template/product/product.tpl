@@ -23,6 +23,9 @@
         <?php $class = 'col-sm-8'; ?>
         <?php } ?>
         <div class="<?php echo $class; ?>">
+            <?php if($data['special']): ?>
+            <span class="sale_tag"><span class="product-label-special">Sale</span></span>
+            <?php endif; ?>
           <?php if ($thumb || $images) { ?>
           <ul class="thumbnails">
             <?php if ($thumb) { ?>
@@ -342,7 +345,8 @@
         </div>
       </div>
       <?php if ($products) { ?>
-      <h3><?php echo $text_related; ?></h3>
+      <br/><br/>
+      <div class="new_title center"><h3><?php echo $text_related; ?></h3></div>
       <div class="row">
         <?php $i = 0; ?>
         <?php foreach ($products as $product) { ?>
